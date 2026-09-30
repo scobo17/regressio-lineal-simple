@@ -1,0 +1,1 @@
+# regressio-lineal-simple
